@@ -11,6 +11,14 @@
         "greenting": "bonjuor, mundo!",
         "farewell": "aduios"
     },
+    "ar":{
+        "greeting": "مرحبا العالم"
+        "farewell": "وداعا!"
+    },
+    "HE":{
+        "greeting": "שלום עולם"
+        "farewell": "להתראות"
+    },
     "es":{
         "greeting": "Hola, mundo!",
         "farewell": "Adiós!"
@@ -70,7 +78,6 @@
     "al":{
         "greeting": "Guten Morgen, welt!",
         "farewell": "Verabschiedung"
-
     }
 }
 
