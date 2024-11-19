@@ -11,9 +11,21 @@
         "greenting": "bonjuor, mundo!",
         "farewell": "aduios"
     },
+    "jp":{
+        "greeting": "こんにちは、世界よ！",
+        "farewell": "さようなら!"
+    },    
+    "ru":{
+        "greeting": "Привет, мир!",
+        "farewell": "До свидания!"
+    },    
+    "de":{
+        "greeting": "Hallo, Welt!",
+        "farewell": "Auf Wiedersehen!"
+    },    
     "ar":{
-        "greeting": "مرحبا العالم"
-        "farewell": "وداعا!"
+        "greeting": "مرحباً أيها العالم!",
+        "farewell": "وداعاً"
     },
     "HE":{
         "greeting": "שלום עולם"
@@ -23,21 +35,9 @@
         "greeting": "Hola, mundo!",
         "farewell": "Adiós!"
     },
-    "de":{
-        "greeting": "Hallo, Welt!",
-        "farewell": "Auf Wiedersehen!"
-    },
-    "ru":{
-        "greeting": "Привет, мир!",
-        "farewell": "Пока!"
-    },
     "it":{
         "greeting": "Ciao, mondo!",
         "farewell": "Arrivederci!"
-    },
-    "ja":{
-        "greeting": "こんにちは、世界！",
-        "farewell": "さようなら！"
     },
     "ko":{
         "greeting": "안��, 세상!",
