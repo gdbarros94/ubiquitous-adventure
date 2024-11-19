@@ -10,4 +10,21 @@
     "fr":{
         "greenting": "bonjuor, mundo!",
         "farewell": "aduios"
+    },
+    "jp":{
+        "greeting": "こんにちは、世界よ！",
+        "farewell": "さようなら!"
+    },    
+    "ru":{
+        "greeting": "Привет, мир!",
+        "farewell": "До свидания!"
+    },    
+    "de":{
+        "greeting": "Hallo, Welt!",
+        "farewell": "Auf Wiedersehen!"
+    },    
+    "ar":{
+        "greeting": "مرحباً أيها العالم!",
+        "farewell": "وداعاً"
+    }
 }
