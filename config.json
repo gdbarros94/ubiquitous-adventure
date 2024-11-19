@@ -10,9 +10,69 @@
     "fr":{
         "greenting": "bonjuor, mundo!",
         "farewell": "aduios"
+    },
+    "es":{
+        "greeting": "Hola, mundo!",
+        "farewell": "Adiós!"
+    },
+    "de":{
+        "greeting": "Hallo, Welt!",
+        "farewell": "Auf Wiedersehen!"
+    },
+    "ru":{
+        "greeting": "Привет, мир!",
+        "farewell": "Пока!"
+    },
+    "it":{
+        "greeting": "Ciao, mondo!",
+        "farewell": "Arrivederci!"
+    },
+    "ja":{
+        "greeting": "こんにちは、世界！",
+        "farewell": "さようなら！"
+    },
+    "ko":{
+        "greeting": "안��, 세상!",
+        "farewell": "안��히 가세요!"
+    },
+    "zh":{
+        "greeting": "你好，世界！",
+        "farewell": "再见！"
+    },
+    "sv":{
+        "greeting": "Hej, världen!",
+        "farewell": "Hej då!"
+    },
+    "vi":{
+        "greeting": "Xin chào, thế giới!",
+        "farewell": "Tạm biệt!"
+    },
+    "nl":{
+        "greeting": "Hallo, wereld!",
+        "farewell": "Tot ziens!"
+    },
+    "cs":{
+        "greeting": "Ahoj, svět!",
+        "farewell": "Doviděl jste se!"
+    },
+    "pl":{
+        "greeting": "Cześć, świat!",
+        "farewell": "Do widzenia!"
+    },
+    "hu":{
+        "greeting": "Helló, világ!",
+        "farewell": "Viszlát!"
+    },
+    "tr":{
+        "greeting": "Merhaba, dünya!",
+        "farewell": "Selamak üstüne!"
+    }
+}
+
 },
     "al":{
         "greeting": "Guten Morgen, welt!",
         "farewell": "Verabschiedung"
 
     }
+
