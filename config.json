@@ -10,4 +10,13 @@
     "fr":{
         "greenting": "bonjuor, mundo!",
         "farewell": "aduios"
+    },
+    "ar":{
+        "greeting": "مرحبا العالم"
+        "farewell": "وداعا!"
+    },
+    "HE":{
+        "greeting": "שלום עולם"
+        "farewell": "להתראות"
+    }
 }
