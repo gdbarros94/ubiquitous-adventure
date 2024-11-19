@@ -66,13 +66,11 @@
     "tr":{
         "greeting": "Merhaba, dünya!",
         "farewell": "Selamak üstüne!"
-    }
-}
-
 },
     "al":{
         "greeting": "Guten Morgen, welt!",
         "farewell": "Verabschiedung"
 
     }
+}
 
