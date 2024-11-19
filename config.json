@@ -26,5 +26,58 @@
     "ar":{
         "greeting": "مرحباً أيها العالم!",
         "farewell": "وداعاً"
+    },
+    "HE":{
+        "greeting": "שלום עולם"
+        "farewell": "להתראות"
+    },
+    "es":{
+        "greeting": "Hola, mundo!",
+        "farewell": "Adiós!"
+    },
+    "it":{
+        "greeting": "Ciao, mondo!",
+        "farewell": "Arrivederci!"
+    },
+    "ko":{
+        "greeting": "안��, 세상!",
+        "farewell": "안��히 가세요!"
+    },
+    "zh":{
+        "greeting": "你好，世界！",
+        "farewell": "再见！"
+    },
+    "sv":{
+        "greeting": "Hej, världen!",
+        "farewell": "Hej då!"
+    },
+    "vi":{
+        "greeting": "Xin chào, thế giới!",
+        "farewell": "Tạm biệt!"
+    },
+    "nl":{
+        "greeting": "Hallo, wereld!",
+        "farewell": "Tot ziens!"
+    },
+    "cs":{
+        "greeting": "Ahoj, svět!",
+        "farewell": "Doviděl jste se!"
+    },
+    "pl":{
+        "greeting": "Cześć, świat!",
+        "farewell": "Do widzenia!"
+    },
+    "hu":{
+        "greeting": "Helló, világ!",
+        "farewell": "Viszlát!"
+    },
+    "tr":{
+        "greeting": "Merhaba, dünya!",
+        "farewell": "Selamak üstüne!"
+},
+    "al":{
+        "greeting": "Guten Morgen, welt!",
+        "farewell": "Verabschiedung"
     }
 }
+
