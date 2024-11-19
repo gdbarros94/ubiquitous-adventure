@@ -68,3 +68,11 @@
         "farewell": "Selamak üstüne!"
     }
 }
+
+},
+    "al":{
+        "greeting": "Guten Morgen, welt!",
+        "farewell": "Verabschiedung"
+
+    }
+
